@@ -27,4 +27,7 @@ dependents
 ## Target
   To analyze all relevant customer data and develop focused customer retention programs.
 
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
+
 
